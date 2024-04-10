@@ -1,0 +1,52 @@
+
+.navbar{
+
+background-color: antiquewhite;
+padding: 40px;
+font-style: italic;
+font-size: x-large;
+
+}
+.navbar a{
+    float: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  color: black;
+}
+
+
+.sidebar{
+  
+    vertical-align: auto;
+    display: flex;
+    flex-direction: column;
+    font-style: italic;
+    position: fixed;
+    height: 100%;
+    background-color: rgb(234, 225, 167);
+    
+ 
+}
+
+.sidebar a{
+    padding: 5px;
+    margin: 3px;
+    float: left;
+    color: black;
+    
+}
+
+
+
+
+img{
+   margin-left: 800px;
+   padding: 10px;
+   width: 430px;
+   
+}
+p{
+  margin-left: 800px;
+   
+}
